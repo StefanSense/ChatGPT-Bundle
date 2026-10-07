@@ -1,0 +1,7 @@
+interface:
+  display_name: "Stefan Sense Bundle"
+  short_description: "Writing, research, marketing and document workflows"
+  default_prompt: "Use $stefan-sense-bundle to choose a workflow and complete this task."
+
+policy:
+  allow_implicit_invocation: true

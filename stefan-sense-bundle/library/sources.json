@@ -1,0 +1,362 @@
+{
+  "commits": {
+    "core": "19392f7a08264ed00486a251f5b2098321771f94",
+    "docs": "683bc88e56f3e09ba94f7055977f3d3aa499f202",
+    "ecc": "ef648e01899ba3e8dc6371642deaaf64b4477775"
+  },
+  "files": [
+    {
+      "path": "resources/core/marketing-skill/skills/aeo/scripts/citation_tracker.py",
+      "workflow": "aeo",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/marketing-skill/skills/aeo/scripts/citation_tracker.py",
+      "sha256": "319ee76b06b46363631f62a91707a85bbbb0f14848f68488712915cb0586a3a8",
+      "bytes": 12629
+    },
+    {
+      "path": "resources/core/marketing-skill/skills/aeo/scripts/aeo_audit.py",
+      "workflow": "aeo",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/marketing-skill/skills/aeo/scripts/aeo_audit.py",
+      "sha256": "26c643fa245049e3edd798ecd3c4ce602cabc03e33acbb7cd72912b9d7334d18",
+      "bytes": 17429
+    },
+    {
+      "path": "resources/core/engineering/agent-harness/skills/agent-harness/scripts/harness_manifest_builder.py",
+      "workflow": "agent-harness",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/engineering/agent-harness/skills/agent-harness/scripts/harness_manifest_builder.py",
+      "sha256": "5d9eefab7c238af1dcb3b969a1992be572e2d063d5ebf70a2c4c11737a4c4db1",
+      "bytes": 9449
+    },
+    {
+      "path": "resources/core/c-level-advisor/chief-ai-officer-advisor/skills/chief-ai-officer-advisor/scripts/ai_cost_economics.py",
+      "workflow": "chief-ai-officer-advisor",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/c-level-advisor/chief-ai-officer-advisor/skills/chief-ai-officer-advisor/scripts/ai_cost_economics.py",
+      "sha256": "69ecbdbcee231d2a32599d4c7580b9104048c0dee9c29e94752a232d8f9e0fc9",
+      "bytes": 16462
+    },
+    {
+      "path": "resources/core/c-level-advisor/chief-ai-officer-advisor/skills/chief-ai-officer-advisor/scripts/model_buildvsbuy_calculator.py",
+      "workflow": "chief-ai-officer-advisor",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/c-level-advisor/chief-ai-officer-advisor/skills/chief-ai-officer-advisor/scripts/model_buildvsbuy_calculator.py",
+      "sha256": "c68d17cdc8f5c0da3dbffff3468485357ebbf995dd9c28df64ada18bb178ae71",
+      "bytes": 17080
+    },
+    {
+      "path": "resources/core/c-level-advisor/skills/decision-logger/scripts/decision_tracker.py",
+      "workflow": "decision-logger",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/c-level-advisor/skills/decision-logger/scripts/decision_tracker.py",
+      "sha256": "69d1a06302f8fc03bba32604f6e5c94e5c581ca4f08cf568b0653695cf1c9acd",
+      "bytes": 23573
+    },
+    {
+      "path": "resources/core/engineering/skills/dependency-auditor/scripts/license_checker.py",
+      "workflow": "dependency-auditor",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/engineering/skills/dependency-auditor/scripts/license_checker.py",
+      "sha256": "7fa7b6d19cc8de7d38850c24d1c8970fafac9df6bd4f44f883056745bd410dc8",
+      "bytes": 44397
+    },
+    {
+      "path": "resources/core/engineering/skills/dependency-auditor/scripts/upgrade_planner.py",
+      "workflow": "dependency-auditor",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/engineering/skills/dependency-auditor/scripts/upgrade_planner.py",
+      "sha256": "fcaf65475a3376c53c345ad27137a06a99c67184a7b328129021d69f48cc870b",
+      "bytes": 42650
+    },
+    {
+      "path": "resources/core/engineering/skills/dependency-auditor/scripts/dep_scanner.py",
+      "workflow": "dependency-auditor",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/engineering/skills/dependency-auditor/scripts/dep_scanner.py",
+      "sha256": "309abbb1fb20df6dfcea77ac0e963bd61953cb4b46de8c1a6d10cae6d88546cd",
+      "bytes": 31256
+    },
+    {
+      "path": "resources/core/research/litreview/skills/litreview/scripts/free_search.py",
+      "workflow": "litreview",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/research/litreview/skills/litreview/scripts/free_search.py",
+      "sha256": "7bca347bb0de953c0f268f894c6ab37c77ae08c4888e77e864d5c3ecc7aea166",
+      "bytes": 6940
+    },
+    {
+      "path": "resources/core/engineering/llm-wiki/skills/llm-wiki/scripts/init_vault.py",
+      "workflow": "llm-wiki",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/engineering/llm-wiki/skills/llm-wiki/scripts/init_vault.py",
+      "sha256": "9d42c8d21fb1292885a4a43e4c2305362f50e3d82b6a1a0672f052066c810b2e",
+      "bytes": 7182
+    },
+    {
+      "path": "resources/core/engineering/memory-engineering/skills/memory-engineering/scripts/memory_density_auditor.py",
+      "workflow": "memory-engineering",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/engineering/memory-engineering/skills/memory-engineering/scripts/memory_density_auditor.py",
+      "sha256": "26655b0ec0ebbf975f9d8e2000a2ad48e1e6a7d54c5b816445e0b5c812eb8f69",
+      "bytes": 26561
+    },
+    {
+      "path": "resources/core/research/pulse/skills/pulse/scripts/topic_slug_generator.py",
+      "workflow": "pulse",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/research/pulse/skills/pulse/scripts/topic_slug_generator.py",
+      "sha256": "79114630e94f95e459dd87e473e109db86621a71c1e0f406d685afd17322e4d7",
+      "bytes": 4970
+    },
+    {
+      "path": "resources/core/research/pulse/skills/pulse/scripts/citation_tracker.py",
+      "workflow": "pulse",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/research/pulse/skills/pulse/scripts/citation_tracker.py",
+      "sha256": "4f8e93efb57a3aa5a6a7ba4b2ac2c3188ab76be2ed83672a7053ffd086f41c8f",
+      "bytes": 21747
+    },
+    {
+      "path": "resources/core/research/research/skills/research/scripts/routing_transparency_logger.py",
+      "workflow": "research-router",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/research/research/skills/research/scripts/routing_transparency_logger.py",
+      "sha256": "d47bb49258982691114d77853d20f9daf900f756b0c7fdc1a8d6ecd7db6865be",
+      "bytes": 7591
+    },
+    {
+      "path": "resources/core/engineering-team/skills/senior-prompt-engineer/scripts/prompt_optimizer.py",
+      "workflow": "senior-prompt-engineer",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/engineering-team/skills/senior-prompt-engineer/scripts/prompt_optimizer.py",
+      "sha256": "cbf0beead6af85424ce3f750a12110f56b06b2996713fc7f0d2aaa12b72c6eab",
+      "bytes": 19039
+    },
+    {
+      "path": "resources/core/engineering/skills/skill-security-auditor/scripts/skill_security_auditor.py",
+      "workflow": "skill-security-auditor",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/engineering/skills/skill-security-auditor/scripts/skill_security_auditor.py",
+      "sha256": "7111717862232f0368699ec96ccb09d98052149e012c9d98b600dde4c6661ac4",
+      "bytes": 43686
+    },
+    {
+      "path": "resources/core/engineering/skills/skill-tester/scripts/script_tester.py",
+      "workflow": "skill-tester",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/engineering/skills/skill-tester/scripts/script_tester.py",
+      "sha256": "e2c73561f35e4afd5064a3581e8da2a4082821947af292ba7b804799eeb8ad9a",
+      "bytes": 31171
+    },
+    {
+      "path": "resources/core/engineering/skills/skill-tester/scripts/security_scorer.py",
+      "workflow": "skill-tester",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/engineering/skills/skill-tester/scripts/security_scorer.py",
+      "sha256": "f9ae133fa5415703f547edeb52b058a6b8a729c759380c0d86a988e913250e39",
+      "bytes": 23491
+    },
+    {
+      "path": "resources/core/engineering/skills/skill-tester/scripts/quality_scorer.py",
+      "workflow": "skill-tester",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/engineering/skills/skill-tester/scripts/quality_scorer.py",
+      "sha256": "014f10ff4c1fe99ff36bbbe71df5263a2979544228887c792af1fda62d5c1a1b",
+      "bytes": 50431
+    },
+    {
+      "path": "resources/core/engineering/skills/skill-tester/scripts/skill_validator.py",
+      "workflow": "skill-tester",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/engineering/skills/skill-tester/scripts/skill_validator.py",
+      "sha256": "13cf53cbec43bcd69090a6c46a37c1dde61fddc45c49d0a1b934347f5b733bbc",
+      "bytes": 30500
+    },
+    {
+      "path": "resources/core/engineering/skills/tc-tracker/scripts/tc_init.py",
+      "workflow": "tc-tracker",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/engineering/skills/tc-tracker/scripts/tc_init.py",
+      "sha256": "69ae92ab72e7388a4be26a3fa09a0c820e08a0de59f7e1b9bc43c47a575f2f9d",
+      "bytes": 6861
+    },
+    {
+      "path": "resources/core/engineering/skills/tc-tracker/scripts/tc_update.py",
+      "workflow": "tc-tracker",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/engineering/skills/tc-tracker/scripts/tc_update.py",
+      "sha256": "b2bdf2fa2ac4d2683fcee7596200a3631673ad8014cab8d460582e679c8e333c",
+      "bytes": 14181
+    },
+    {
+      "path": "resources/core/engineering/skills/tc-tracker/scripts/tc_create.py",
+      "workflow": "tc-tracker",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/engineering/skills/tc-tracker/scripts/tc_create.py",
+      "sha256": "15e94c907812ad28da10ccbd05ccdc8c2a043ccbd4858cdcff6317a738ec0703",
+      "bytes": 9936
+    },
+    {
+      "path": "resources/core/engineering/skills/tc-tracker/scripts/tc_validator.py",
+      "workflow": "tc-tracker",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/engineering/skills/tc-tracker/scripts/tc_validator.py",
+      "sha256": "9d44bff19fdc6ca20abcac26e0daaf6be6ba870cc9d01a354ae8e498751e864e",
+      "bytes": 14226
+    },
+    {
+      "path": "resources/docs/skills/web-artifacts-builder/scripts/bundle-artifact.sh",
+      "workflow": "web-artifacts-builder",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/anthropics/skills/683bc88e56f3e09ba94f7055977f3d3aa499f202/skills/web-artifacts-builder/scripts/bundle-artifact.sh",
+      "sha256": "abf0e480bf6585b56fab8526a407dfb7dc740812bddd70c636e1e8f3df5f9618",
+      "bytes": 1517
+    },
+    {
+      "path": "resources/core/agents/c-level/cs-ceo-advisor.md",
+      "workflow": "linked-resource",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/agents/c-level/cs-ceo-advisor.md",
+      "sha256": "dc84a73ca9d6058f152d493bd485a1264c955d203f5a875ee118fe65ca7c1816",
+      "bytes": 16034
+    },
+    {
+      "path": "resources/core/agents/engineering/cs-fullstack-engineer.md",
+      "workflow": "linked-resource",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/agents/engineering/cs-fullstack-engineer.md",
+      "sha256": "6885f99ad35dda343045ef72034e2b071a5d5b62a23fd9bbd64f8d19ee3fcca5",
+      "bytes": 10725
+    },
+    {
+      "path": "resources/core/c-level-agents/agents/cs-chro-advisor.md",
+      "workflow": "linked-resource",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/c-level-agents/agents/cs-chro-advisor.md",
+      "sha256": "694613ba22979411d165c8d0d7217f1d10d65d3dfb8a2e2c68a972e2c605a681",
+      "bytes": 4861
+    },
+    {
+      "path": "resources/core/c-level-agents/references/persona-voices.md",
+      "workflow": "linked-resource",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/c-level-agents/references/persona-voices.md",
+      "sha256": "072a178618c8d3c8fdcf682ad4c46cf57f098b39bc4ce3cbec4381c55471f629",
+      "bytes": 8743
+    },
+    {
+      "path": "resources/core/agents/business-growth/cs-growth-strategist.md",
+      "workflow": "linked-resource",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/agents/business-growth/cs-growth-strategist.md",
+      "sha256": "5f1cff9f0acef761284b8d3923359baa7656dd8d277a9cfae3cb707697af31b6",
+      "bytes": 2817
+    },
+    {
+      "path": "resources/core/agents/finance/cs-financial-analyst.md",
+      "workflow": "linked-resource",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/agents/finance/cs-financial-analyst.md",
+      "sha256": "2023c213722f936e7a3e8a837a35c19a013c7e060bc2af79775523c64da009c0",
+      "bytes": 4760
+    },
+    {
+      "path": "resources/core/agents/ra-qm-team/cs-quality-regulatory.md",
+      "workflow": "linked-resource",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/agents/ra-qm-team/cs-quality-regulatory.md",
+      "sha256": "9733f01a16cbee5e8248329cb76ff2b0e6f02f37b11bb50b87d9a3fcafd99367",
+      "bytes": 3906
+    },
+    {
+      "path": "resources/core/agents/engineering/cs-senior-engineer.md",
+      "workflow": "linked-resource",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/agents/engineering/cs-senior-engineer.md",
+      "sha256": "e0bdbe3db39743447a0607413cb0129f324b006b29599d7b57536977c331575e",
+      "bytes": 4539
+    },
+    {
+      "path": "resources/core/agents/marketing/cs-content-creator.md",
+      "workflow": "linked-resource",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/agents/marketing/cs-content-creator.md",
+      "sha256": "42ceb1a5fcd618f865cb25dbaa4da85a1fa1b53077e1f5a220a9459504bd26fe",
+      "bytes": 9903
+    },
+    {
+      "path": "resources/core/agents/marketing/cs-demand-gen-specialist.md",
+      "workflow": "linked-resource",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/agents/marketing/cs-demand-gen-specialist.md",
+      "sha256": "b2fc39427014d1611fc04d924c656df1f4959b039e045bbca75a5b23738d2e13",
+      "bytes": 11771
+    },
+    {
+      "path": "resources/core/agents/engineering-team/cs-engineering-lead.md",
+      "workflow": "linked-resource",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/agents/engineering-team/cs-engineering-lead.md",
+      "sha256": "6e8735b123209caca44cdbbed91a02bcc0d2bd2b390d930e4290bf3e6605bd9a",
+      "bytes": 3525
+    },
+    {
+      "path": "resources/core/agents/product/cs-product-manager.md",
+      "workflow": "linked-resource",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/agents/product/cs-product-manager.md",
+      "sha256": "6b1ec9900409c608c890510ab843687c16c3b6ca291b7fc0f2b21f6b7dd5cbf0",
+      "bytes": 31478
+    },
+    {
+      "path": "resources/core/agents/product/cs-product-strategist.md",
+      "workflow": "linked-resource",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/19392f7a08264ed00486a251f5b2098321771f94/agents/product/cs-product-strategist.md",
+      "sha256": "1442da00522d27f0f7e6ca7b70540804117fb28d184fb5d083159620a446947c",
+      "bytes": 21205
+    },
+    {
+      "path": "resources/docs/skills/skill-creator/scripts/generate_report.py",
+      "workflow": "skill-creator",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/anthropics/skills/683bc88e56f3e09ba94f7055977f3d3aa499f202/skills/skill-creator/scripts/generate_report.py",
+      "sha256": "13df7118a3c50c83c4c3250a606d5f2b20b25a3d44cbc392b3d669ec75281453",
+      "bytes": 12847
+    },
+    {
+      "path": "resources/docs/skills/skill-creator/scripts/improve_description.py",
+      "workflow": "skill-creator",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/anthropics/skills/683bc88e56f3e09ba94f7055977f3d3aa499f202/skills/skill-creator/scripts/improve_description.py",
+      "sha256": "87d864570220b699fac52da309d2d6efdb060647bfebc74f768128e646accf80",
+      "bytes": 11116
+    },
+    {
+      "path": "resources/docs/skills/skill-creator/scripts/run_eval.py",
+      "workflow": "skill-creator",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/anthropics/skills/683bc88e56f3e09ba94f7055977f3d3aa499f202/skills/skill-creator/scripts/run_eval.py",
+      "sha256": "43e3b8f80dbf69c343967ba77e268fae991d9fa3ed68b32a0ff02532cd48657f",
+      "bytes": 11464
+    },
+    {
+      "path": "resources/ecc/skills/taste-application/scripts/tasteforge/schema.py",
+      "workflow": "local-import-closure",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/affaan-m/everything-claude-code/ef648e01899ba3e8dc6371642deaaf64b4477775/skills/taste-application/scripts/tasteforge/schema.py",
+      "sha256": "0834a1f067d7247b2b7e79ce2d82e23d2a219e51e8c560aa2cf4d49485c1792d",
+      "bytes": 15315
+    },
+    {
+      "path": "resources/ecc/skills/taste-application/scripts/tasteforge/provenance.py",
+      "workflow": "local-import-closure",
+      "status": "restored",
+      "url": "https://raw.githubusercontent.com/affaan-m/everything-claude-code/ef648e01899ba3e8dc6371642deaaf64b4477775/skills/taste-application/scripts/tasteforge/provenance.py",
+      "sha256": "e092fca5774c9453b6f2b58902c586dbc73c75e35483159d39c14b974483d68f",
+      "bytes": 5827
+    }
+  ],
+  "note": "Immutable sources of resources restored in 1.1.0; bundled bytes may include declared ChatGPT adaptations. Original sources of unchanged files are in catalog.json."
+}

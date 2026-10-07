@@ -1,6 +1,0 @@
-interface:
-  display_name: "Stefan Sense Bundle"
-  short_description: "Everyday work toolkit: writing, research, analysis, marketing, documents"
-  default_prompt: "Use $stefan-sense-bundle to pick the right workflow for this task and complete it."
-policy:
-  allow_implicit_invocation: true
