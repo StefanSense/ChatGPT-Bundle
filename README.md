@@ -35,5 +35,11 @@ git clone --depth 1 https://github.com/StefanSense/ChatGPT-Bundle.git $env:TEMP\
 |---|---|
 | `Stefan-Sense-Bundle.zip` | готовый архив для загрузки в ChatGPT (байт в байт как выпущенный 1.1.1) |
 | `stefan-sense-bundle/` | содержимое архива: `SKILL.md`, `core/`, `library/`, `scripts/`, лицензии |
+| `LICENSE` | MIT — авторская часть бандла |
 
 Подробная инструкция и проверка после установки — [stefan-sense-bundle/README.md](stefan-sense-bundle/README.md) · English: [README.en.md](stefan-sense-bundle/README.en.md).
+
+## Лицензия
+Авторская часть (M. Stefan Kassem / Stefan Sense) — [MIT](LICENSE): можно свободно использовать, изменять и
+распространять с сохранением уведомления об авторстве. Сторонние материалы сохраняют свои лицензии (MIT, Apache-2.0) —
+см. [THIRD_PARTY_NOTICES.md](stefan-sense-bundle/THIRD_PARTY_NOTICES.md) и [licenses/](stefan-sense-bundle/licenses/).
