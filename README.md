@@ -1,6 +1,6 @@
-# Stefan Sense Bundle 1.1.1 — навык для ChatGPT
+# Stefan Sense Bundle 1.1.1 — навыкы для ChatGPT
 
-Автор: **M. Stefan Kassem (Stefan Sense)**. 32 основных направления работы и 586 специализированных методик:
+Автор: **Stefan Sense**. 32 основных направления работы и 586 специализированных методик:
 тексты, маркетинг, исследования, аналитика, проекты и документы. Сторонние авторы и лицензии —
 [AUTHORS.md](stefan-sense-bundle/AUTHORS.md) и [THIRD_PARTY_NOTICES.md](stefan-sense-bundle/THIRD_PARTY_NOTICES.md).
 
